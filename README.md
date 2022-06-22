@@ -1,55 +1,29 @@
 ## 👨🏻‍💻 풀스택을 지향하는 백엔드 개발자 - 욤니(Yomni)
 
-<!--
 
+안녕하세요 🙌🏻 
+저는 `Yomni`이고 삼성전자 내에서 백엔드 엔지니어로 근무하고 있습니다.  
+일할때는 `소통`과 `공감`을 위주로 즐겁게 일하고 있습니다.
 
-안녕하세요!
+-------
 
-알고리즘 짜는 것을 좋아하며, 새로운 것을 배울 때, '문제점'과 그 '해결법'의 차원에서 접근하여 빠르게 습득하는 편입니다.
+## 💵 나의 가치 
 
-철학과 금융에 관심이 많으며, 요가를 통해 건강한 몸과 정신상태를 유지하려고 노력합니다.
+### 기술적 가치
 
-감사합니다.
+1. `알고리즘`문제 푸는 것을 좋아합니다.
+2. 새로운 것을 배울 때 `문제점`과 그 `해결법`으로 접근하여 빠르게 습득하는 편입니다.
 
-### platform
-- GitHub
-- intellij
+### 비기술적 가치
 
-### language
-- java
-- sql(postgresql, mariadb, oracle)
+최근엔 `철학`과 `금융`에 관심이 생겨, 개인 블로그에 정리하고 있습니다.  
+건강한 몸과 건강한 정신상태를 유지하기 위해 `요가`와 `헬스`를 병행하고 있습니다.
 
-Framework
-- Spring Boot
-- JPA
+---
 
-### Tools
-- git
-- Jira
-- slack
-- junit
-- jenkins
-- Excel
+## ⏳ 앞으로 이런걸 만들어보고 싶어요
 
-3. 학습 예정 list
-- javascript
-- react
-- node
-- next.js
-- 
-
-4. 이런걸 만들어보고 싶어요
-
-**Yomni/yomni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. 철학사를 한눈에 보여주는 `Static Website` 제작
+	-  스크롤 애니메이션 적용
+2. 코스피 200 Map
+	- S&P 500 Map를 벤치마킹한 코스피 200 버전으로 제작
